@@ -67,11 +67,11 @@
 // "" => false
 // "Shivam" => true
 
-// let someNumber = 33
+let someNumber = 33
 
-// let stringNumber = String(someNumber) // convertion to string
-// console.log(stringNumber); 
-// console.log(typeof stringNumber);
+let stringNumber = String(someNumber) // convertion to string
+console.log(stringNumber); 
+console.log(typeof stringNumber);
 
 
 // ***************************** Operations ******************************

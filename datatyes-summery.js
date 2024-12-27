@@ -18,7 +18,7 @@ const bigNumber = 2342454234341435345n
 
 Array , Object ,Functions 
 
-const heros = ["shaktiman","nagraj","doga"]; // ye hai array
+const heros = ["shaktiman","nagraj","doga"];// ye hai array
 const hero = {
     name: "Hero",
     age: 30,

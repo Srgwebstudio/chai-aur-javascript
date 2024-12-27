@@ -20,7 +20,7 @@ console.log(undefined == 0); // output => false // avoiid this
 console.log(undefined > 0); // output => false // avoiid this
 console.log(undefined < 0); // output => false // avoiid this
 
-// ===
+// === 
 
 console.log("2" === 2);
 

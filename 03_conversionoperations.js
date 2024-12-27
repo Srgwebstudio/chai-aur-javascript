@@ -78,32 +78,32 @@
 
 let value = 3
 let negValue = -value
-// console.log(negValue); print => "-3"
+console.log(negValue); // print => "-3"
 
 
 // Basics Maths operations
-// console.log(2+2);
-// console.log(2-2);
-// console.log(2*2);
-// console.log(2/2);
-// console.log(2**3);
-// console.log(2%2);
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/2);
+console.log(2**3);
+console.log(2%2);
 
 let stri1 = "hello"
 let stri2 = " world"
 let str3 =  stri1 + stri2
-// console.log(str3);
+console.log(str3);
 
-// console.log("1" + 2);// output => 12
-// console.log("1" + "2");// output => 12
-// console.log("1" + 2 + 2);// output => 122
-// console.log(1 + 2 + "2");// output => 32
-// console.log((3 + 4) * 5 % 3);
+console.log("1" + 2);// output => 12
+console.log("1" + "2");// output => 12
+console.log("1" + 2 + 2);// output => 122
+console.log(1 + 2 + "2");// output => 32
+console.log((3 + 4) * 5 % 3);
 
 
-// console.log(true);// output => true 
-// console.log(+true);// output => 1 // koi sense hai isaat ka
-// console.log(+"");// output => 0 // koi sense hai isaat ka
+console.log(true);// output => true 
+console.log(+true);// output => 1 // koi sense hai isaat ka
+console.log(+"");// output => 0 // koi sense hai isaat ka
 
 let num1, num2, num3
 num1 = num2 = num3 = 2 + 2

@@ -1,5 +1,3 @@
-// Primitive
-// 7 types : string , number , boolean ,null , undefined , sumbol,bigint
 
 const score = 100
 const scoreValue = 100.3
@@ -10,15 +8,15 @@ let userEmail;
 
 const Id = Symbol('123')
 const anotherId = Symbol('123')
-// console.log(Id === anotherId);
+console.log(Id === anotherId);
 
 
-// const bigNumber = 2342454234341435345n
+const bigNumber = 2342454234341435345n
 
 
 // reference data types (non primitive)
 
-// Array , Object ,Functions 
+Array , Object ,Functions 
 
 const heros = ["shaktiman","nagraj","doga"]; // ye hai array
 const hero = {

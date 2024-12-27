@@ -13,7 +13,7 @@ console.log(3
 
 console.log(Shivam);
 
-Datatype.
+// Datatype.
 let name = "Shivam";
 let age = 20
 let isLoggedIn = false
